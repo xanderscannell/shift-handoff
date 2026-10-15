@@ -1,0 +1,4 @@
+# clasp: links this folder to the live script; keep the script ID out of the public repo
+.clasp.json
+
+node_modules/
